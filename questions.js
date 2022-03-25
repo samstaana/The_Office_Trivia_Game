@@ -2,11 +2,11 @@
 
 let questions = [
     {
-      text: `What is the first book of the Old Testament?
-        A. Leviticus
-        B. Numbers
-        C. Genesis
-        D. Exodus`,
+      text: ` Where does Michael Scott move to start his new life with Holly?
+        A. Boston, Massachusetts
+        B. Salt Lake City, Utah
+        C. Boulder, Colorado
+        D. Hope,Idaho',`
       correctAnswer: "C"
     },
     {

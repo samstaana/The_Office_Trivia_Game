@@ -24,3 +24,4 @@ while (playAgain === true) {
             window.alert('Thanks for playing the game!')
         }
 }
+
