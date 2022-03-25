@@ -8,19 +8,19 @@ let questions = [
     correctAnswer: "C"
   },
   {
-    text: `How would one say goodbye in Spanish?
-      A. Hola
-      B. Au Revoir
-      C. Salir
-      D. Adiós`,
+    text: `Which of these is NOT a name of one Angela’s cats?
+      A. Bandit
+      B. Sprinkles
+      C. Petals
+      D. Oreo`,
     correctAnswer: "D"
   },
   {
-    text: `What is the French word for 'hat'?
-      A.  Casque
-      B. Chapeau
-      C. Bonnet
-      D. Écharpe`,
+    text: `At Phyllis’ wedding, Michael revealed that her nickname in high school was what?
+      A. Perfectly Adequate
+      B. Easy Rider
+      C. Anal Girl
+      D. Belle`,
     correctAnswer: "B"
   },
   {
