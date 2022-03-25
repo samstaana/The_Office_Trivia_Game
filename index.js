@@ -23,5 +23,4 @@ while (playAgain === true) {
             playAgain = false
             window.alert('Thanks for playing the game!')
         }
-}
-
+} 
